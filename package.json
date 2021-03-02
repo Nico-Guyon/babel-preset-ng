@@ -1,0 +1,9 @@
+{
+  "name": "@ng/babel-preset-ng",
+  "version": "1.0.0",
+  "description": "NG babel preset",
+  "main": "index.js",
+  "repository": "https://github.com/Nico-Guyon/babel-preset-ng",
+  "author": "Nicolas GUYON",
+  "license": "ISC"
+}
